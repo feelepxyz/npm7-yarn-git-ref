@@ -15,6 +15,8 @@ npm ERR! command git clone --mirror -q ssh://git@github.com/Graffino/Browser-Upd
 npm ERR! fatal: destination path '/Users/user/.npm/_cacache/tmp/git-clone-7bb498d7/.git' already exists and is not an empty directory.
 ```
 
+Expected the error output from npm 7 to be similar to npm 6 where it references that the git checkout failed.
+
 ## Error output from `npm v6.14.11`
 
 ```
