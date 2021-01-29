@@ -3,7 +3,7 @@
 Using a git reference supported by yarn
 
 ```
-npm install fetch-factory@0.0.2
+npm install
 ```
 
 Error output from `npm v7.5.0`
